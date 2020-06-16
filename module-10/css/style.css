@@ -108,6 +108,8 @@
   .header {
     background-image: url(../img/eagle.jpg);
     position: relative;
+    background-position: center;
+    background-size: cover;
     padding: 40px 0px 230px 0px;
   }
   
